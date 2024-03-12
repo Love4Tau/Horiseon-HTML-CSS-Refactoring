@@ -16,21 +16,21 @@ HTML
     - Noticed the 'Search Engine Optimization' nav link/button was not functioning like the other two buttons when clicked
         - Missing id="search-engine-optimization" on line 29 (added this - fixed issue)
 - HTML file is flooded with divs
-    - Replaced <div> tag on after </head> and before </html> tags with the <body> tag
+    - Replaced div tag on after head and before html tags with the body tag
 
-    - Replaced <div> tag that encapsulates the <h1> and <ul> with the header tag
+    - Replaced div tag that encapsulates the h1 and ul with the header tag
 
-    - Replaced <div> wrapping <ul> with <nav>
+    - Replaced div wrapping ul with nav
 
-    - Kept <div> tag for hero class since it is styling the photo only
+    - Kept div tag for hero class since it is styling the photo only
 
-    - Decided that the <main> content is the three sections (Search engine optimization, Online reputation management, Social media marketing). Replaced the <div> wrapping these sections with <main>
+    - Decided that the main content is the three sections (Search engine optimization, Online reputation management, Social media marketing). Replaced the div wrapping these sections with main
 
-    - Replaced divs wrapping each individual section with the <section> tag (ie. Search engine optimization, Online reputation management, Social media marketing, Lead Generation, Brand Awareness, Cost Management).
+    - Replaced divs wrapping each individual section with the section tag (ie. Search engine optimization, Online reputation management, Social media marketing, Lead Generation, Brand Awareness, Cost Management).
 
-    - Replaced <div> wrapping benefits section with <aside> tag
+    - Replaced div wrapping benefits section with aside tag
 
-    - Replaced <div> wrapping <h2> and <p> with <footer> tag
+    - Replaced div wrapping h2 and p with footer tag
 
     - Added alt text to images - just in case images do not load
 
