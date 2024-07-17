@@ -45,6 +45,12 @@ HTML
         - Did the same thing for the benefitSection 
             - Removed the unnecessary lines of code in the CSS file
 
+## Usage
+
+![Alt Text](./assets/images/Website.png)
+
+[Deployed Website](https://love4tau.github.io/Horiseon-HTML-CSS-Refactoring/)
+
 ## Credits
 
 Juan Delgado: My tutor proofread my css and html files. Juan assisted with helping me gain a better understanding of where to apply the 'main' element. Juan also helped me realize that we can set the same class in the HTML file so we can apply the same styling to multiple sections. Ultimately, we were able to get rid of reptitive code in the CSS file.
